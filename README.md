@@ -13,7 +13,7 @@ create database inventory;
 use inventory;
 ```
 6) Download the code from the repository and unzip it (https://github.com/nikhil-kagita/shopify-inventory). Open the downloaded project in IntelliJ.
-7) Open application.properties file and set the username and password as your MySQL username and password.
+7) Open application.properties file and set the username and password as your MySQL username and password that you have set previously.
 8) Right click on the file InventoryApplication.java and click on Run 'InventoryApplication.main()'. This should start the application.
 9) Now you can open the postman and create a new collection.
 
